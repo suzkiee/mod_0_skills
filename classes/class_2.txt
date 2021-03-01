@@ -1,4 +1,4 @@
-Class: Bathroom
+Class: AirportBathroom
 
 Attributes:
 - closest_terminal (string)
