@@ -1,0 +1,13 @@
+Class: PassengerWaitingForFlight
+
+Attributes:
+- boarding_group (string)
+- is_awake (boolean)
+- snacks (array)
+- num_of_carryon (integer)
+
+Method
+- upgrade_seat (updates string in boarding_group)
+- delay_flight (updates is_awake to false)
+- buy_more_snacks (adds 1 new string to snacks array)
+- check_bag (subtracts 1 from num_of_carryon)
