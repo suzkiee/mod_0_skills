@@ -1,0 +1,19 @@
+movie = 'Moana'
+is_entertaining = true
+movie = "Catch Me If You Can"
+
+num_4 = 4
+num_6 = 12
+product = num_4 * num_6
+
+favorite_foods = ['Pizza', 'Pasta', 'Peppermint Patty']
+
+Removes first element from favorite_foods array
+```ruby
+favorite_foods.shift
+```
+
+Prints how many characters are in `movie` string
+```ruby
+puts movie.size
+```
