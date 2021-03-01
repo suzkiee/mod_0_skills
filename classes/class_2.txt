@@ -9,5 +9,5 @@ Attributes:
 Method
 - check_map (updates string in closest_terminal)
 - close_for_cleaning (updates is_closed to true)
-- buy_something (subtracts 1 string from vending_machine_inventory array)
+- buy_something (removes last element from vending_machine_inventory array)
 - clog_toilet (subtracts 1 from num_of_stalls)
