@@ -7,7 +7,7 @@ Attributes:
 - num_of_carryon = 3
 
 Method
-- upgrade_seat('A'): boarding_group = 'A'
-- delay_flight: is_awake = false
-- buy_more_snacks('Rolos'):  snacks = ['Hot Cheetos', 'Sour Patch Kids', 'Twizzlers']
-- check_bag:
+- upgrade_seat('A'): (boarding_group = 'A')
+- delay_flight: (is_awake = false)
+- buy_more_snacks('Rolos'):(snacks = ['Hot Cheetos', 'Sour Patch Kids', 'Twizzlers', 'Rolos'])
+- check_bag: (num_of_carryon = 2)
