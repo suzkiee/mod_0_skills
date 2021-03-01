@@ -1,4 +1,4 @@
-Class: Alex Lewis
+Instance: Alex Lewis
 
 Attributes:
 - boarding_group = 'C'

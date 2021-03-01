@@ -1,4 +1,4 @@
-Class: WomensBathroom
+Instance: WomensBathroom
 
 Attributes:
 - closest_terminal = 'Terminal A'
@@ -9,5 +9,5 @@ Attributes:
 Method
 - check_map('Terminal C'): (closest_terminal = 'Terminal C')
 - close_for_cleaning: (is_closed = true)
-- buy_something: (vending_machine_inventory ['tampons', 'pads', 'Tylenol', 'Kleenex']
+- buy_something: (vending_machine_inventory ['tampons', 'pads', 'Tylenol', 'Kleenex'])
 - clog_toilet: (num_of_stalls = 11)
